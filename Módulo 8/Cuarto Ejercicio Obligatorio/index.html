@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Cronómetro</title>
+
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/headers.css">
+	<link rel="stylesheet" type="text/css" href="css/buttons.css">
+		
+		
+	<!-- Añadimos las cabeceras de JS -->
+	<script type="text/javascript" src="js/zepto.js">
+	</script>
+	<script type="text/javascript" src="js/touch.js">
+	</script>
+	<script type="text/javascript" src="js/cronometro.js">
+	</script>
+</head>
+<body>
+	<div class="">
+		<section role="region" class="skin">
+			<header>
+				<h1>Cronómetro</h1>
+			</header>
+		</section>
+		<section class="cronometro sombra">
+			<h2>
+				<span id="crono">0.0</span>
+			</h2>
+		</section>
+		<section class="bb-docs">
+			<button type="button" id="cambiar">Arrancar</button>
+			<button type="button" id="inicializar">Inicializar</button>			
+		</section>
+		<section class="paradas sombra">
+			
+			<h3 class="sombra">Tiempos intermedios</h3>
+			<ul id="tiempos"></ul>
+		</section>
+	</div>
+
+</body>
+</html> 

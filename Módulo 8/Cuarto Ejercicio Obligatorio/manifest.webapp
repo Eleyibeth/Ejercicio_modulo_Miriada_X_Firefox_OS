@@ -1,0 +1,13 @@
+{
+  "name": "Cronómetro",
+  "description": "Ejercicio dentro del curso de MiriadaX de desarrollo de Firefox OS",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Borja Sanz",
+    "url": "http://paginaspersonales.deusto.es/bosanz"
+  },
+  "default_locale": "es"
+}

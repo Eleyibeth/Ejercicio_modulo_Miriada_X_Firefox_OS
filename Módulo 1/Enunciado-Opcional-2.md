@@ -1,0 +1,1 @@
+En el archivo creado en el ejercicio anterior "la primera página Web", cambiar el color del fondo, de la fuente, la familia tipográfica y el tamaño.

@@ -1,0 +1,18 @@
+{
+  "name": "Geoloc",
+  "description": "Quinto ejercicio del curso de Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox O.S.",
+  "launch_path": "host/0B3mv0IEbFFYUdkNCRjVQb3pDWW8/hosted/index.html",
+  "default_locale": "es",
+  "developer":{
+  	"name": "Borja Sanz",
+  	"url": "http://paginaspersonales.deusto.es/bosanz"
+  },
+  "icons":{
+  	"16":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_16.png",
+  	"32":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_32.png",
+  	"60":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_60.png",
+  	"128":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_128.png",
+  	"256":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_256.png"
+  }
+
+}

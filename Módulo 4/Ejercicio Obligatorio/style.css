@@ -1,0 +1,32 @@
+	@font-face{
+		font-family: Fira;
+		src: url(FiraSansOT-Regular.otf) format("opentype");
+	}
+
+	body{
+		background-color: #262626;
+		font-family: fira;
+	}
+
+	.wrapper{
+		height: 800px;
+		width: 480px;
+		background-color: #cacaca;
+		margin-left: auto;
+		margin-right: auto;
+		background-image: url(bg.png);
+		position: relative;
+	}
+
+	.centered{
+		position: absolute;
+		top: 50%;
+		margin-top: -10em;
+	}
+
+	footer{
+		color: white;
+		font-size: 0.5em;
+		text-align: right;
+		
+	}

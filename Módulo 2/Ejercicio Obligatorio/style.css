@@ -1,0 +1,49 @@
+body{
+	color:white;
+	font-family: helvetica;
+	background-color: rgb(44,62,80);
+	margin:50px 0px; padding:0px;
+	text-align:center;
+}
+
+h1,h2,h3{
+	
+}
+
+header{
+	background:url('chess.jpg') #A98436 no-repeat left top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	height: 288px;
+	text-align: center;
+	color:black;
+}
+
+li.peon{
+	list-style-type: none;
+	background: url('peon.png') no-repeat top left;
+	height: 46px;
+	padding-left: 40px; 
+}
+
+.text_glow{
+	text-shadow: 0 1px 18px #000;
+	font-size:50px;
+	color:white;
+}
+
+#cuerpo{
+	width:50%;
+	margin:0px auto;
+	text-align:left;
+	padding:15px;
+	background-color: rgb(60,80,100);
+}
+
+.pieza{
+	font-size: 1.3em;
+	font-style: italic;
+}
+
+
