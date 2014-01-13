@@ -13,6 +13,13 @@
   	"60":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_60.png",
   	"128":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_128.png",
   	"256":"https://googledrive.com/host/0B3mv0IEbFFYUYVZ3aERPdHV2VVk/icons/GeoIcon_256.png"
-  }
+  },
 
+  "permissions": 
+  {
+    "geolocation": 
+    {
+      "description": "Needed to tell the user where they are"
+    }
+  }
 }
